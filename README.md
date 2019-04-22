@@ -4,7 +4,6 @@
 
 https://guarded-escarpment-10701.herokuapp.com/
 
-check here and leave a comment:)
 
 I use built this app to train myself on the backend  I just styled the templates very little because my main focus was to learn how to properly connect and  creates the logic to back-end  and the components and features accessed by a user through a front-end.
 
